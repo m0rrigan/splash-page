@@ -1,0 +1,27 @@
+body {
+  background-color: #d6d6d6;
+  font-family: "FreeMono", monospace; }
+
+.splash {
+  display: flex;
+  justify-content: center; }
+
+.link {
+  margin: 20px;
+  justify-content: space-around; }
+
+ul {
+  list-style: none; }
+
+li {
+  float: left; }
+
+li a {
+  color: #000;
+  text-decoration: none;
+  text-transform: uppercase; }
+
+li a:hover {
+  color: #ef7f2c; }
+
+/*# sourceMappingURL=styles.css.map */

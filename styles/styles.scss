@@ -1,0 +1,39 @@
+// * {
+//   margin: 0;
+//   padding: 0;
+//   box-sizing: border-box;
+// }
+
+body {
+  background-color: #d6d6d6;
+  font-family: "FreeMono", monospace;
+  // font-family: "Gill Sans", sans-serif;
+}
+
+.splash {
+  display: flex;
+  justify-content: center;
+}
+
+.link {
+  margin: 20px;
+  justify-content: space-around;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  color: #000;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+li a:hover {
+  color: #ef7f2c;
+}
